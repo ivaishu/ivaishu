@@ -34,6 +34,13 @@ To obtain a challenging role as a SOC Analyst where I can leverage my academic b
     <img src="https://img.shields.io/badge/-Google%20Toolbox-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
+### Firewall & Access Control
+
+<div>
+    <img src="https://img.shields.io/badge/-UFW-2E8B57?&style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-212121?&style=for-the-badge&logo=pfsense&logoColor=white" />
+</div>
+
 ### SIEM
 <div>
    
