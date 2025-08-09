@@ -19,7 +19,7 @@ To obtain a challenging role as a SOC Analyst where I can leverage my academic b
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
    <img src="https://img.shields.io/badge/Nmap-004170?&style=for-the-badge&logo=nmap&logoColor=white" />
-
+   <img src="https://img.shields.io/badge/-Netcat%20(nc)-000000?&style=for-the-badge&logo=gnu-bash&logoColor=white" /> 
 </div>
 
 
