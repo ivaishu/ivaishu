@@ -27,7 +27,12 @@ To obtain a challenging role as a SOC Analyst where I can leverage my academic b
     <img src="https://img.shields.io/badge/-Hydra-FF0000?&style=for-the-badge&logo=kalilinux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit%20Framework-0088CC?&style=for-the-badge&logo=metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-John%20the%20Ripper-FFD700?&style=for-the-badge&logo=lock&logoColor=black" />
+</div>
 
+### Email & Social Engineering Analysis
+<div>
+    <img src="https://img.shields.io/badge/-Google%20Toolbox-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+</div>
 ### SIEM
 <div>
    
