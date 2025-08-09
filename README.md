@@ -33,6 +33,7 @@ To obtain a challenging role as a SOC Analyst where I can leverage my academic b
 <div>
     <img src="https://img.shields.io/badge/-Google%20Toolbox-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
+
 ### SIEM
 <div>
    
