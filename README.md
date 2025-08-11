@@ -58,4 +58,19 @@ To obtain a challenging role as a SOC Analyst where I can leverage my academic b
 
 ## Projects
 
-*Coming soon... Stay tuned for SOC-related tools, scripts, and labs.*
+
+- **UFW Firewall Setup – Linux**  
+  Configured firewall rules to control network access, tested with `ssh` and `telnet`.  
+  **Tools:** `UFW`, `Linux CLI`
+
+- **Vulnerability Scan using Nessus**  
+  Performed scans, identified vulnerabilities, and suggested remediation.  
+  **Tools:** `Nessus`
+
+- **Phishing Email Analysis**  
+  Examined email headers using Google Toolbox and documented findings.  
+  **Tools:** `Google Toolbox`
+
+- **Network Port Scanning using Nmap**  
+  Mapped open ports/services and detected outdated software.  
+  **Tools:** `Nmap`
